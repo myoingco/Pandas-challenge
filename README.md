@@ -1,4 +1,4 @@
-<h1 align="center"> Panda-Challenge </h1> <br>
+<h1 align="center"> Pandas-Challenge </h1> <br>
 Utilize Pandas DataFrames to analyze school and standardized test data.
 
 ## Table of Contents
